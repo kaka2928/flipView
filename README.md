@@ -1,4 +1,4 @@
 FlipView 
 ===================================  
 
-  <img src="Screenshots/thumbnails/Flip/1.png"/>
+  <img src="2016-05-26 11_03_04.gif"/>
